@@ -9,7 +9,7 @@ la coordinación de recursos humanos, el control de inventario y la planificaci�
 
 ## Mi contribución
 
-*Fernanda Fernández*
+*Fernanda Fernández Vergara*
 
 Desarrollé, tanto en el frontend como en el backend, el **Módulo de Actividades y Calificaciones**, que permite planificar el trabajo diario y evaluar al personal:
 
